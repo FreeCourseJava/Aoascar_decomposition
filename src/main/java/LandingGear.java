@@ -1,5 +1,5 @@
 public class LandingGear {
-    int MaximumLoading;
+    int maximumLoading;
     int wheelRim;// размер обода шасси
     String wheelMaterial;
 
